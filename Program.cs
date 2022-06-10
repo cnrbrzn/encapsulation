@@ -11,6 +11,7 @@ ogrenci.OgrenciBilgileriniGetir();
 
 Ogrenci ogrenci1 = new Ogrenci("Deniz","Arda",256,1);
 ogrenci.SinifDusur();
+ogrenci.SinifDusur();
 ogrenci1.OgrenciBilgileriniGetir();
 
 
